@@ -18,8 +18,8 @@ Theory
 
 **Senior Software Engineer at Mozilla (March 2013 — )**
 
-+ Module owner for Firefox OS ([Calendar
-  app](https://github.com/mozilla-b2g/gaia/tree/master/apps/calendar))
++ Module owner for Firefox OS [Calendar
+  app](https://github.com/mozilla-b2g/gaia/tree/master/apps/calendar)
     + Implemented a JavaScript caldav client ([dav](https://github.com/gaye/dav))
     + Built the existing calendar UI in the Firefox OS 2.0 visual
       refresh
