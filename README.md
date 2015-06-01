@@ -32,7 +32,7 @@ Theory
       prevent regressions
     + Wrote a small library to proxy api requests from the main thread
       to a web worker
-([proxy worker](https://github.com/gaye/proxyworker))
+([proxyworker](https://github.com/gaye/proxyworker))
     + Worked with calendar server operators like Google and Yahoo! to
       achieve interoperability
 + Module owner for jsmarionette testing framework
