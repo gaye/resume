@@ -31,7 +31,8 @@ Theory
     + Implemented an extensive webdriver integration test suite to
       prevent regressions
     + Wrote a small library to proxy api requests from the main thread
-      to a web worker ([proxy worker](https://github.com/gaye/proxyworker))
+      to a web worker
+([proxy worker](https://github.com/gaye/proxyworker))
     + Worked with calendar server operators like Google and Yahoo! to
       achieve interoperability
 + Module owner for jsmarionette testing framework
@@ -47,8 +48,10 @@ tests ([jsmarionette](https://github.com/mozilla-b2g/gaia/tree/master/tests/jsma
         + piping logs and errors from gecko to nodejs
     + Built nodejs cli program to download specific gecko builds to use
       for testing
+([mozilla-download](https://github.com/mozilla-b2g/mozilla-download))
     + Built utility to mirror a subset of npm packages from an existing
       npm server
+([npm-mirror](https://github.com/mozilla-b2g/npm-mirror))
     + Became the go-to person for everything related to frontend testing
       in Firefox OS
 
