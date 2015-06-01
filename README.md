@@ -18,9 +18,9 @@ Theory
 
 **Senior Software Engineer at Mozilla (March 2013 — )**
 
-+ Module owner for Firefox OS Calendar app
-    + Implemented a JavaScript caldav client (see
-      [dav](https://github.com/gaye/dav))
++ Module owner for Firefox OS ([Calendar
+  app](https://github.com/mozilla-b2g/gaia/tree/master/apps/calendar))
+    + Implemented a JavaScript caldav client ([dav](https://github.com/gaye/dav))
     + Built the existing calendar UI in the Firefox OS 2.0 visual
       refresh
     + Refactored the calendar codebase to
@@ -31,7 +31,7 @@ Theory
     + Implemented an extensive webdriver integration test suite to
       prevent regressions
     + Wrote a small library to proxy api requests from the main thread
-      to a web worker
+      to a web worker ([proxy worker](https://github.com/gaye/proxyworker))
     + Worked with calendar server operators like Google and Yahoo! to
       achieve interoperability
 + Module owner for jsmarionette testing framework
@@ -39,7 +39,7 @@ Theory
       webdriver protocol (marionette)
     + Built and maintained a framework on top of marionette client and
       mocha test harness that's used in Firefox OS to write integration
-tests
+tests ([jsmarionette](https://github.com/mozilla-b2g/gaia/tree/master/tests/jsmarionette))
     + Got Firefox OS' integration test suite to run on travis ci and
       buildbot
     + Wrote libraries to help test-writers do things like
