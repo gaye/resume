@@ -43,7 +43,7 @@ Theory
 tests ([jsmarionette](https://github.com/mozilla-b2g/gaia/tree/master/tests/jsmarionette))
     + Got Firefox OS' integration test suite to run on travis ci and
       buildbot
-    + Wrote libraries to help test-writers do things like
+    + Wrote libraries to help test writers do things like
         + launching, closing, and switching between Firefox OS apps
         + piping logs and errors from gecko to nodejs
     + Built nodejs cli program to download specific gecko builds to use
