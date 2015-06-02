@@ -31,8 +31,7 @@ Theory
     + Implemented an extensive webdriver integration test suite to
       prevent regressions
     + Wrote a small library to proxy api requests from the main thread
-      to a web worker
-([proxyworker](https://github.com/gaye/proxyworker))
+      to a web worker ([proxyworker](https://github.com/gaye/proxyworker))
     + Worked with calendar server operators like Google and Yahoo! to
       achieve interoperability
 + Module owner for jsmarionette testing framework
