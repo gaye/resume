@@ -54,6 +54,11 @@ tests ([jsmarionette](https://github.com/mozilla-b2g/gaia/tree/master/tests/jsma
     + Became the go-to person for everything related to frontend testing
       in Firefox OS
 
+**Contractor at Luvocracy (2013)**
+
++ Built a bookmarklet that Luvocracy users could use to scrape a web
+  page for a product along with its name, image, and price.
+
 **Software Engineer at Airtime (2012)**
 
 + Early employee at video chat startup
