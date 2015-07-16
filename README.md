@@ -16,7 +16,7 @@ Theory
 
 # Experience
 
-**Senior Software Engineer at Mozilla (March 2013 — )**
+**Senior Software Engineer, Engineering Lead at Mozilla Firefox (March 2013 — )**
 
 + Module owner for Firefox OS [Calendar
   app](https://github.com/mozilla-b2g/gaia/tree/master/apps/calendar)
