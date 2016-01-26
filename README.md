@@ -1,6 +1,6 @@
 Gareth Aye  
-6533 SE 17th Ave
-Portland, OR 97202
+6533 SE 17th Ave  
+Portland, OR 97202  
 (415) 948-1205  
 
 # Education
